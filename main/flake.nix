@@ -11,7 +11,6 @@
   inputs.src-ballpark-main.ref   = "refs/heads/main";
   inputs.src-ballpark-main.owner = "Mihara";
   inputs.src-ballpark-main.repo  = "ballpark";
-  inputs.src-ballpark-main.dir   = "";
   inputs.src-ballpark-main.type  = "github";
   
   inputs."fsnotify".owner = "nim-nix-pkgs";
